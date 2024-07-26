@@ -2,8 +2,9 @@
 description: Các lệnh tpa ví dụ và chức năng dùng
 ---
 
-# Lệnh TPA
+# Lệnh dịch chuyển
 
+* /rtp: Mở menu dịch chuyển ngẫu nhiên
 * **/tpa \<tên người chơi>**
   * **Chức năng**: Gửi yêu cầu dịch chuyển đến một người chơi cụ thể. Người chơi được yêu cầu sẽ nhận được thông báo và có thể chấp nhận hoặc từ chối yêu cầu.
   * **Ví dụ**: `/tpa Steve`
@@ -20,4 +21,6 @@ description: Các lệnh tpa ví dụ và chức năng dùng
   * **Chức năng**: Hủy bỏ yêu cầu dịch chuyển mà bạn đã gửi trước đó.
   * **Ví dụ**: `/tpcancel`
 * /tpaall : Gửi yêu cầu dịch chuyển đến tất cả người chơi
+* /sethome  < tên nhà > : lưu vị trí nhà
+* /home < tên nhà > : dịch chuyển về nhà
 
