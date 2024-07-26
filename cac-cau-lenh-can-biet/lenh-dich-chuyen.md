@@ -20,7 +20,6 @@ description: Các lệnh tpa ví dụ và chức năng dùng
 * **/tpcancel**
   * **Chức năng**: Hủy bỏ yêu cầu dịch chuyển mà bạn đã gửi trước đó.
   * **Ví dụ**: `/tpcancel`
-* /tpaall : Gửi yêu cầu dịch chuyển đến tất cả người chơi
 * /sethome  < tên nhà > : lưu vị trí nhà
 * /home < tên nhà > : dịch chuyển về nhà
 
