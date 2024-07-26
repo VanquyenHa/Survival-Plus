@@ -9,3 +9,6 @@
 * [Cách tạo khu bảo vệ của riêng mình](cach-tao-khu-bao-ve-cua-rieng-minh.md)
 * [Cách kiếm coins](cach-kiem-coins.md)
 * [Phù phép](phu-phep.md)
+* [Đêm trăng máu](dem-trang-mau/README.md)
+  * [Cơ chế](dem-trang-mau/co-che.md)
+  * [Các loại quái](dem-trang-mau/cac-loai-quai.md)
