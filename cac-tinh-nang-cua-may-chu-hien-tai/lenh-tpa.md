@@ -11,7 +11,7 @@ description: Các lệnh tpa ví dụ và chức năng dùng
   * **Chức năng**: Gửi yêu cầu dịch chuyển người chơi khác đến vị trí của bạn.
   * **Ví dụ**: `/tpahere Alex`
 * **/tpaccept**
-  * **Chức năng**: Chấp nhận yêu cầu dịch chuyển (TPA) từ người chơi khác. Khi được chấp nhận, người gửi yêu cầu sẽ được dịch chuyển đến vị trí của người chấp nhận.
+  * **Chức năng**: Chấp nhận yêu cầu dịch chuyển (TPA) từ người chơi khác.
   * **Ví dụ**: `/tpaccept`
 * **/tpdeny**
   * **Chức năng**: Từ chối yêu cầu dịch chuyển (TPA) từ người chơi khác.
@@ -19,5 +19,5 @@ description: Các lệnh tpa ví dụ và chức năng dùng
 * **/tpcancel**
   * **Chức năng**: Hủy bỏ yêu cầu dịch chuyển mà bạn đã gửi trước đó.
   * **Ví dụ**: `/tpcancel`
-* /tpaall : dùng để chấp nhận tất cả các lệnh tpa
+* /tpaall : Gửi yêu cầu dịch chuyển đến tất cả người chơi
 
