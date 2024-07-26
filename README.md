@@ -1,11 +1,15 @@
 ---
-description: Một Server Minecraft Survival Plus thuộc các cụm của 3FMC.
+description: (Cũng là Survival nhưng mà nó lạ lắm)
 ---
 
 # Server Survival Plus - 3FMC
 
-Server được mở Open Beta 1.0 vào ngày 1/8 theo như dự kiến.
+Chào mừng đến với Survival Plus, một máy chủ thuộc 3FMC
 
-Hiện tại Server đã có được một số chức năng cần thiết cho người chơi hiện tại.&#x20;
+Gì? Bạn đang trông chờ một màn đón tiếp nồng hậu và hứa hẹn đầy tính thiếu thực tế á?
 
-Như Rank, RTP, Hệ thống TPA, Hệ thống Trade, Shop, Chợ Đen, Đồ Trade, Dungeon, Boss,...
+Không! Bạn đang mong chờ gì ở một thằng 6.5 điểm Văn vậy?
+
+Về cơ bản, máy chủ không hướng tới phát triển về một mặt như những máy chủ đặc biệt chuyên phục vụ dân Builder, dân ưa thích khám phá, hội chuyên đi đánh nhau mà máy chủ hướng tới việc đáp ứng tất cả thành viên
+
+Thôi không dài dòng lòng vòng nữa, hướng tới tính năng chính thôi nào :smile:
