@@ -24,7 +24,7 @@ description: >-
 * Xuất hiện các mobs mới và mạnh hơn.
 * Có hộp quà xuất hiện ngẫu nhiên trong thế giới sinh tồn để dễ dàng sinh tồn hơn.
 * Pet đặc quyền với tính năng fly , kho đồ làm tăng sự trải nghiệm cho máy chủ.
-* Khu vực afk nhận thưởng khi bạn bạn công việc :)).
+* Khu vực afk nhận thưởng khi bạn bận công việc :)).
 * Các đồ trade , đồ donate đc gán các kĩ năng .
 * Hệ thống RTP dịch chuyển ở 3 world.
 * Khu vực PVP dành cho các dân thích pvp.
