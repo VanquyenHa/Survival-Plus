@@ -7,3 +7,4 @@
   * [Cách tạo khu bảo vệ của riêng mình](cac-tinh-nang-cua-may-chu-hien-tai/cach-tao-khu-bao-ve-cua-rieng-minh.md)
   * [Cách kiếm coins](cac-tinh-nang-cua-may-chu-hien-tai/cach-kiem-coins.md)
   * [Các lệnh khác](cac-tinh-nang-cua-may-chu-hien-tai/cac-lenh-khac.md)
+* [Phù phép](phu-phep.md)
