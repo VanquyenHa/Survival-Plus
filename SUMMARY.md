@@ -12,3 +12,4 @@
 * [Đêm trăng máu](dem-trang-mau/README.md)
   * [Cơ chế](dem-trang-mau/co-che.md)
   * [Các loại quái](dem-trang-mau/cac-loai-quai.md)
+* [Cơ chế xếp hạng quái](co-che-xep-hang-quai.md)
