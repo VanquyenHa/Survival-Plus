@@ -84,7 +84,7 @@ _Đã học được phép: Bắn đầu lâu khô héo_
 
 
 **Zombie thiết giáp**\
-Once a strong warrior. Now a heavily armored zombie.
+Từng là một chiến binh dũng mãnh. Giờ là Zombie Thiết Giáp.
 
 **Zombie Tàng hình**\
 Chúng sẽ tấn công bạn nhưng sẽ tàn hình khi bị tấn công lại
